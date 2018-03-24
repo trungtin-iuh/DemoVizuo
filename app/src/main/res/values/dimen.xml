@@ -1,0 +1,77 @@
+<resources>
+
+    <dimen name="pad__3dp">-3dp</dimen>
+    <dimen name="pad_1dp">1dp</dimen>
+    <dimen name="pad_2dp">2dp</dimen>
+    <dimen name="pad_3dp">3dp</dimen>
+    <dimen name="pad_4dp">4dp</dimen>
+    <dimen name="pad_5dp">5dp</dimen>
+    <dimen name="pad_8dp">8dp</dimen>
+    <dimen name="pad_10dp">10dp</dimen>
+    <dimen name="pad_15dp">15dp</dimen>
+    <dimen name="pad_20dp">20dp</dimen>
+    <dimen name="pad_25dp">25dp</dimen>
+    <dimen name="pad_30dp">30dp</dimen>
+    <dimen name="pad_40dp">40dp</dimen>
+    <dimen name="pad_50dp">50dp</dimen>
+    <dimen name="pad_80dp">80dp</dimen>
+    <dimen name="pad_125dp">125dp</dimen>
+    <dimen name="pad_200dp">200dp</dimen>
+    <dimen name="pad_350dp">350dp</dimen>
+    <dimen name="preview_historical_printer_report_size">220dp</dimen>
+    <dimen name="progress_bar_Circular_size">80dp</dimen>
+
+    <dimen name="txt_small_sp">8sp</dimen>
+    <dimen name="txt_normal_sp">10sp</dimen>
+    <dimen name="txt_large_sp">15sp</dimen>
+    <dimen name="txt_7sp">7sp</dimen>
+    <dimen name="txt_8sp">8sp</dimen>
+    <dimen name="txt_10sp">10sp</dimen>
+    <dimen name="txt_12sp">12sp</dimen>
+    <dimen name="txt_13sp">13sp</dimen>
+    <dimen name="txt_14sp">14sp</dimen>
+    <dimen name="txt_15sp">15sp</dimen>
+    <dimen name="txt_16sp">16sp</dimen>
+    <dimen name="txt_18sp">18sp</dimen>
+    <dimen name="txt_20sp">20sp</dimen>
+    <dimen name="txt_25sp">25sp</dimen>
+    <dimen name="txt_30sp">30sp</dimen>
+    <dimen name="txt_35sp">35sp</dimen>
+    <dimen name="divider">0.5dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="dashboard_simple_button_height">12dp</dimen>
+    <dimen name="dashboard_legend_view_padding_bottom">10dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- start vizou app daviteq-->
+    <dimen name="forget_password_text_size">25sp</dimen>
+    <dimen name="forget_password_text_button_size">16sp</dimen>
+    <dimen name="back_to_sign_in_text_size">15sp</dimen>
+    <dimen name="forgot_password_sub_title_text_size">14sp</dimen>
+
+    <dimen name="left_menu_width">260dp</dimen>
+    <dimen name="line_chart_layout_height">340dp</dimen>
+    <dimen name="state_text_width_alarm_log">70dp</dimen>
+    <dimen name="height_50">50dp</dimen>
+    <dimen name="alarm_management_width_70">70dp</dimen>
+    <dimen name="dashboard_config_menu_bar_width_70">70dp</dimen>
+    <dimen name="dashboard_linechart_legend_height">3dp</dimen>
+    <dimen name="dashboard_linechart_legend_txt">9sp</dimen>
+    <dimen name="logo_vizuo_width_height">150dp</dimen>
+    <!--start responsive for tablet-->
+    <dimen name="icon_range_color_delete_size">30dp</dimen>
+    <dimen name="add_widget_icon_width">25dp</dimen>
+    <dimen name="home_icon_width">30dp</dimen>
+    <dimen name="widget_menu_icon_width">30dp</dimen>
+    <dimen name="icon_main_bar_padding">10dp</dimen>
+    <dimen name="add_widget_layout_height">40dp</dimen>
+    <dimen name="add_widget_divider_height">0.5dp</dimen>
+    <dimen name="up_down_icon_width">20dp</dimen>
+    <dimen name="option_menu_spacing_height">5dp</dimen>
+    <dimen name="container_left_icon_width">40dp</dimen>
+    <dimen name="left_menu_icon_width">25dp</dimen>
+    <dimen name="left_menu_text_size">14sp</dimen>
+    <dimen name="grid_view_row_menu_icon_width">23dp</dimen>
+    <!--end responsive for tablet-->
+    <!-- end vizou app daviteq-->
+</resources>

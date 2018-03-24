@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- start for myappTemplate -->
+    <color name="red_light">#e74c3c</color>
+    <color name="gray_dk">#313031</color>
+    <color name="white_smoke">#F7F7F7</color>
+    <color name="white">#ffffff</color>
+    <drawable name="white">#ffffff</drawable>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="blue_sky">#33b5e5</color>
+    <color name="gray">#5B5B5B</color>
+    <drawable name="trans_draw">#00000000</drawable>
+
+    <color name="vizou_divider_color">#B6B6B6</color>
+
+    <color name="main_color">#252f39</color>
+    <color name="main_color_dk">#1d252d</color>
+    <color name="main_color_lt">#2e3c49</color>
+    <color name="main_grey">#92979c</color>
+    <color name="main_grey_dk">#808080</color>
+    <color name="main_blue">#19b4cc</color>
+    <color name="main_blue_lt">#7c8b9c</color>
+    <color name="main_blue_dk">#16889a</color>
+    <color name="main_red">#EC384D</color>
+    <color name="main_green">#27AE60</color>
+    <color name="main_yellow">#F5D76E</color>
+    <color name="main_skyblue">#edf3f4</color>
+    <color name="main_text_hint">#7f778088</color>
+    <color name="main_text_white">#ffffffff</color>
+    <color name="calendar_divider">#ffbababa</color>
+    <!-- end for myappTemplate -->
+    <!-- start for mvizou daviteq -->
+    <color name="dashboard_floating_button_menu_labels_colorNormal">#d7808080</color>
+    <color name="dashboard_tab_bar_color">#f7252f39</color>
+    <color name="text_color_red_ack">#990000</color>
+    <color name="text_color_blue_ack">#339966</color>
+    <!-- EVENT MANAGEMENT-->
+    <color name="state_true_event_log">#009999</color>
+    <color name="state_false_event_log">#CC6666</color>
+    <!-- ALARM MANAGEMENT-->
+    <color name="state_hihi_alarm_log">#CC0033</color>
+    <color name="state_hi_alarm_log">#CC6666</color>
+    <color name="state_normal_alarm_log">#009999</color>
+    <color name="state_lo_alarm_log">#CC9900</color>
+    <color name="state_lolo_alarm_log">#CCCC66</color>
+
+    <color name="divider_boder_settings">#e9ebec</color>
+    <color name="daviteq_realtime_data_property_color">#CC6666</color>
+    <color name="daviteq_main_color">#1bade1</color>
+    <color name="daviteq_item_selected_color">#f7ccba</color>
+    <color name="daviteq_item_selected_adding_transparent_color">#90f7ccba</color>
+    <!--DAVITEQ NOTY MESSAGE STYPE-->
+    <!-- STYPE SUCCESS-->
+    <color name="daviteq_noty_success_text_color">#006400</color>
+    <color name="daviteq_noty_success_bg_color">#9790EE90</color>
+    <color name="daviteq_noty_success_border_color">#50C24E</color>
+    <!-- STYPE ERROR-->
+    <color name="daviteq_noty_error_text_color">#FFF</color>
+    <color name="daviteq_noty_error_bg_color">#97FF0000</color>
+    <color name="daviteq_noty_error_border_color">#8B0000</color>
+    <!-- STYPE WARNING-->
+    <color name="daviteq_noty_warning_bg_color">#97FFEAA8</color>
+    <color name="daviteq_noty_warning_text_color">#826200</color>
+    <color name="daviteq_noty_warning_border_color">#FFC237</color>
+    <!-- STYPE WARNING-->
+    <color name="daviteq_noty_dashboard_error_text_color">#93FF0000</color>
+    <color name="daviteq_noty_dashboard_error_bg_color">#D1DED5</color>
+    <color name="daviteq_noty_dashboard_error_border_color">#FF0000</color>
+
+    <color name="daviteq_dashboard_widget_bg_loading">#60000000</color>
+    <!-- SWIPE LAYOUT-->
+    <array name="swipe_colors">
+        <item>@color/main_red</item>
+        <item>@color/main_green</item>
+        <item>@color/main_blue</item>
+        <item>@color/main_yellow</item>
+    </array>
+
+    <array name="linear_gauge_colors">
+        <item>@color/daviteq_custom_range_color_1</item>
+        <item>@color/daviteq_custom_range_color_2</item>
+        <item>@color/daviteq_custom_range_color_3</item>
+        <item>@color/daviteq_custom_range_color_4</item>
+        <item>@color/daviteq_custom_range_color_5</item>
+        <item>@color/daviteq_custom_range_color_6</item>
+        <item>@color/daviteq_custom_range_color_7</item>
+        <item>@color/daviteq_custom_range_color_8</item>
+    </array>
+
+    <color name="daviteq_custom_range_color_1">#05F725</color>
+    <color name="daviteq_custom_range_color_2">#9DFA39</color>
+    <color name="daviteq_custom_range_color_3">#CDFA1B</color>
+    <color name="daviteq_custom_range_color_4">#EEF576</color>
+    <color name="daviteq_custom_range_color_5">#FAF066</color>
+    <color name="daviteq_custom_range_color_6">#FA8B14</color>
+    <color name="daviteq_custom_range_color_7">#F05B11</color>
+    <color name="daviteq_custom_range_color_8">#FF0000</color>
+
+    <array name="chart_colors">
+        <item>@color/daviteq_chart_color_1</item>
+        <item>@color/daviteq_chart_color_2</item>
+        <item>@color/daviteq_chart_color_3</item>
+        <item>@color/daviteq_chart_color_4</item>
+        <item>@color/daviteq_chart_color_5</item>
+        <item>@color/daviteq_chart_color_6</item>
+        <item>@color/daviteq_chart_color_7</item>
+        <item>@color/daviteq_chart_color_8</item>
+        <item>@color/daviteq_chart_color_9</item>
+    </array>
+
+    <color name="daviteq_chart_color_1">#058DC7</color>
+    <color name="daviteq_chart_color_2">#50B432</color>
+    <color name="daviteq_chart_color_3">#ED561B</color>
+    <color name="daviteq_chart_color_4">#DDDF00</color>
+    <color name="daviteq_chart_color_5">#24CBE5</color>
+    <color name="daviteq_chart_color_6">#64E572</color>
+    <color name="daviteq_chart_color_7">#FF9655</color>
+    <color name="daviteq_chart_color_8">#FFF263</color>
+    <color name="daviteq_chart_color_9">#6AF9C4</color>
+
+    <color name="daviteq_chart_value_text">#575757</color>
+    <color name="daviteq_chart_unit">#CBCBCB</color>
+    <color name="daviteq_chart_limit">#9B9B9B</color>
+    <color name="daviteq_chart_over_shoot">#FF0000</color>
+    <color name="daviteq_chart_under_background">#EFEFEF</color>
+    <!-- end for mvizou daviteq -->
+</resources>
