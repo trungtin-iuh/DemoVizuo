@@ -28,4 +28,7 @@ dependencies {
     implementation project(':autobahnExtend')
     compile 'com.android.support:design:26.1.0'
     compile 'com.mindorks:placeholderview:0.2.7'
+
+    compile 'com.rengwuxian.materialedittext:library:2.1.4'
+
 }
